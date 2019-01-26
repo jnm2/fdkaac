@@ -20,3 +20,9 @@ src/.deps/
 src/.dirstamp
 stamp-h1
 fdkaac
+
+.vs/
+*.user
+/MSVC/include/fdk-aac/
+/MSVC/**/Debug/
+/MSVC/**/Release/
